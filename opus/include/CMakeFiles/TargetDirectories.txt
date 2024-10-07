@@ -1,0 +1,5 @@
+C:/opus/opus/include/CMakeFiles/opus.dir
+C:/opus/opus/include/CMakeFiles/PACKAGE.dir
+C:/opus/opus/include/CMakeFiles/INSTALL.dir
+C:/opus/opus/include/CMakeFiles/ALL_BUILD.dir
+C:/opus/opus/include/CMakeFiles/ZERO_CHECK.dir

@@ -1,0 +1,1 @@
+C:\pjsip\pjproject\pjsip-apps\src\swig\csharp\sample\SimplePjsua2CS\bin\Debug\SimplePjsua2CS.exe.config
